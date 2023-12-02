@@ -1,1 +1,1 @@
-# this is time series project
+# This is time series project
